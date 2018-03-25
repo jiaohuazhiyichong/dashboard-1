@@ -64,7 +64,7 @@
 2. 租用模式。按期租用，租用期间的维护不收费，添加新功能另外收费。
 3. 引入广告。可以引入额外收入，但可能会影响用户体验。
 
-  [1]: http://www.xdj999.com/product.aspx?category_id=12
+  [1]: https://www.qiyudc.com/
   [2]: http://www.xdj999.com/product.aspx?category_id=12
   [3]: http://dc.wio2o.com/new/diancan.php
   
