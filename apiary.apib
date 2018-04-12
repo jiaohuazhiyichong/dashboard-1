@@ -54,8 +54,54 @@ You may post your order with an array like the one below
     + Body
 
             {
+                "orderID" : "s123",
                 "id" : 1,
-                "dishes" : ["白切鸡","可乐"],
                 "time" : 10
             }
 
+## Cooker Collection [/menus]
+
+### Cooker get menu [GET]
+
++ Response 200 (application/json)
+
+        [
+            {
+                "orderID" : "s123",
+                "name" : ["白切鸡","可乐"],
+                "num" : [1,2],
+                "note" : ["不加辣",""],
+                "id" : 1
+            }
+        ]
+
+### Cooker finish menu [POST]
+
++ Request (application/json)
+        
+        [
+            {
+                "orderID" : "s123",
+                "name" : ["白切鸡"],
+                "num" : ["1"],
+                "id" : 1
+            }
+        ]
+
++ Response 201 (application/json)
+
+    + Headers
+
+            Location: /menus/1
+
+    + Body
+
+        [
+            {
+                "orderID" : "s123",
+                "name" : ["可乐"],
+                "num" : [2],
+                "note" : [""],
+                "id" : 1
+            }
+        ]
