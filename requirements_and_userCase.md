@@ -1,16 +1,33 @@
 #### requirements
-| ID | requirements |
-| :--: | :------: |
-| 1 | customer enter syetem |
-| 2 | order meal |
-| 3 | customer manage order |
-| 4 | pay |
-| 5 | Intellgent recommendation |
-| 6 | cook enter system |
-| 7 | cook manager order |
+|  ID  |       requirements        |
+| :--: | :-----------------------: |
+|  1   |   customer enter syetem   |
+|  2   |        order meal         |
+|  3   |   customer manage order   |
+|  4   |            pay            |
+|  5   | Intellgent recommendation |
+|  6   |     cook enter system     |
+|  7   |    cook manager order     |
 #### Use Case Diagram
 ![userCaseDiagram](./pic/mealUML.png)
 
+Use Case:点餐
+
+Actors：客人，订餐系统，支付接口
+
+Porpose：支持用户选餐并提交订单、支付
+
+Type：primary
+
+Overview：顾客进入点餐系统进行点餐。
+
+1、选择添加想要点的菜，同样的菜可以选择多次。
+
+2、已选的菜会出现在底部的订单中（包括菜名，数量，价格和总价）
+
+3、可以在底部订单中增加或减少每一道菜的数量。
+
+4、点击确定按钮生成订单，弹出支付窗口。
 
 Use Case: 管理订单  
 Actors: 客人，支付网关, 订餐系统  
