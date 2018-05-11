@@ -1,6 +1,6 @@
 #### requirements
 |  ID  |       requirements        |
-| :--: | :--: |
+|:--:|:--:|
 |  1   |   customer enter syetem   |
 |  2   |        order meal         |
 |  3   |   customer manage order   |
