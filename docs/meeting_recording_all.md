@@ -57,17 +57,17 @@
 
 产品规划：
 
-> https://github.com/EasyMealOrder/dashboard/blob/master/about.md
+> https://github.com/EasyMealOrder/dashboard/blob/master/docs/about.md
 
 产品特性：
 
-> https://github.com/EasyMealOrder/dashboard/blob/master/backlog_initial.md
+> https://github.com/EasyMealOrder/dashboard/blob/master/docs/backlog_initial.md
 
 ### 议程2  小组角色确定
 
 角色确定：
 
-> https://github.com/EasyMealOrder/dashboard/blob/master/team_profile.md
+> https://github.com/EasyMealOrder/dashboard/blob/master/docs/team_profile.md
 
 ### 议程3   启动文档分工  
 
