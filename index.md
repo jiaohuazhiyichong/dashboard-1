@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: page
 ---
 
 # [](#TOC)目录
 
 &nbsp;&nbsp; 
 
-* 1、[About](docs/about)（项目规划）
+* 1、[About](./docs/about.md)（项目规划）
 * 2、[Team profile](docs/team_profile)（团队组建）
 * 3、[Investigation](docs/investigation)（项目前期调研）
 * 4、[Vision](docs/vision)（项目愿景）
