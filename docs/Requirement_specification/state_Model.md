@@ -1,1 +1,1 @@
-![Alt text](../pic/stateModel.png)
+![状态模型](../image/stateModel.png)

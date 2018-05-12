@@ -1,1 +1,1 @@
-![Alt text](../pic/domain_model.png)
+![领域模型](../image/domain_model.png)
